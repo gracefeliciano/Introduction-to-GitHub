@@ -1,0 +1,6 @@
+Student Name: Tomi
+Grade 1: 85
+Grade 2: 90
+Grade 3: 88
+Average: 87.67
+Status: Passed
